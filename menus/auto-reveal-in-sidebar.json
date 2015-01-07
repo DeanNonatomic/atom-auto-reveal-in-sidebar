@@ -1,0 +1,34 @@
+{
+    "context-menu": {
+        "atom-text-editor": [
+            {
+                "label": "Enable auto reveal in sidebar",
+                "command": "auto-reveal-in-sidebar:enable"
+            },
+            {
+                "label": "Disable auto reveal in sidebar",
+                "command": "auto-reveal-in-sidebar:disable"
+            }
+        ]
+    },
+    "menu": [
+        {
+            "label": "Packages",
+            "submenu": [
+                {
+                    "label": "Auto reveal in sidebar",
+                    "submenu": [
+                        {
+                            "label": "Enable auto reveal in sidebar",
+                            "command": "auto-reveal-in-sidebar:enable"
+                        },
+                        {
+                            "label": "Disable auto reveal in sidebar",
+                            "command": "auto-reveal-in-sidebar:disable"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
