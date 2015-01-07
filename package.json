@@ -1,14 +1,13 @@
 {
     "name": "auto-reveal-in-sidebar",
     "main": "./lib/auto-reveal-in-sidebar",
-    "version": "0.0.1",
-    "description": "A short description of your package",
-    "repository": "https://github.com/atom/auto-reveal-in-sidebar",
+    "version": "0.0.0",
+    "description": "Calls 'tree-view:reveal-in-sidebar' whenever a file is opened",
+    "repository": "https://github.com/DeanNonatomic/atom-auto-reveal-in-sidebar",
     "license": "MIT",
     "engines": {
         "atom": ">0.50.0"
     },
     "dependencies": {
-
     }
 }
