@@ -7,3 +7,6 @@
 ## 0.3.0 - Replaced deprecated calls
 * Replaced deprecated workspaceView calls
 * Removed options for enable/disable as this seemed redundant
+
+## 0.4.0 - Fixed desprecated warning in keymaps
+* Cleared keymaps JSON file since there are no keymaps needed and this was throwing a deprecated warning
