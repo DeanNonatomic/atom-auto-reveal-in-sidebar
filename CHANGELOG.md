@@ -10,3 +10,6 @@
 
 ## 0.4.0 - Fixed desprecated warning in keymaps
 * Cleared keymaps JSON file since there are no keymaps needed and this was throwing a deprecated warning
+
+## 0.5.0 - Only auto-reveal when sidebar is open
+* Merged in mattsawyer77's changes to only auto-reveal when the sidebar is open
