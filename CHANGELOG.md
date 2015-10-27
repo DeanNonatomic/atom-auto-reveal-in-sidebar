@@ -16,3 +16,6 @@
 
 ## 0.6.0 - Only auto-reveal when sidebar is open
 * Merged in kayone's changes to reveal when switching to an already open tab
+
+## 0.7.0 - Only auto-reveal when sidebar is open
+* Updated the package description

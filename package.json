@@ -2,7 +2,7 @@
   "name": "auto-reveal-in-sidebar",
   "main": "./lib/auto-reveal-in-sidebar",
   "version": "0.6.0",
-  "description": "Calls 'tree-view:reveal-in-sidebar' whenever a file is opened",
+  "description": "Calls 'tree-view:reveal-in-sidebar' whenever a file is opened or brought into focus",
   "repository": "https://github.com/DeanNonatomic/atom-auto-reveal-in-sidebar",
   "license": "MIT",
   "engines": {
