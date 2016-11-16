@@ -22,3 +22,6 @@
 
 ## 0.8.0 - Prevent stealing tree-view focus
 * Merged in kayone's changes to prevent accidentally stealing the focus from the tree-view
+
+## 0.9.0 - Fix tree-view stealing focus when changing tab
+* Fixed the issue with the tree-view stealing the focus when changing tab keyboard shortcut
